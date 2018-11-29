@@ -1,5 +1,5 @@
 :root {
-  --bgImage: url("https://i.imgur.com/X2d1LHo.jpg");
+  --bgImage: url("https://i.imgur.com/kVxqLSO.png");
   --mainColor: #ba55d3;
   --mainDarker: #9932cc;
   --dark: #16181d;
@@ -13,7 +13,7 @@
   --ChannelsDefaultTextColor: #8c8c8c;
   --ChannelsDarkTextColor: #666666;
   --brightness: 0.3;
-  --HomeButtonImg: url("https://i.imgur.com/UgCMUzA.png");
+  --HomeButtonImg: url("https://i.imgur.com/gtLcoJD.png");
 }
 /* Better Discord V2 *//*
 .bd-sidebarView .bd-sidebarRegion,
